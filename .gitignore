@@ -1,0 +1,4 @@
+.env
+borrows.csv
+*.pyc
+.ruff_cache/
